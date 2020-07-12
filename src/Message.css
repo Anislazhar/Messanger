@@ -1,0 +1,33 @@
+.message {
+  padding: 2px;
+  margin: 0;
+  width: fit-content;
+}
+.message__user {
+  margin-left: auto;
+  color: white;
+  text-align: left !important;
+}
+
+.message__userCard {
+  background-color: #0b81ff !important;
+}
+.message false {
+  margin: 20px !important;
+}
+
+.message__questCard {
+  background-color: whitesmoke !important;
+}
+
+.MuiPaper-rounded {
+  border-radius: 10px !important;
+}
+
+h2 {
+  font-size: 16px !important;
+}
+
+.MuiCardContent-root {
+  padding: 10px !important;
+}
